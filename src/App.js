@@ -34,7 +34,7 @@ import "react-vertical-timeline-component/style.min.css";
 import "./App.css";
 import fotoperfil from "./images/fotoperfil.jpg"; // gives image path
 
-const resume = require("./resume/Resume_Fahad_Israr_May_2019.pdf");
+const resume = require("./resume/Resume_Edgar_Gonzalez_2022.pdf");
 
 /*
 let particleconfig = {
@@ -459,7 +459,7 @@ let particleconfig = {
               </div>
               <div>
                 <a
-                  href="https://portfolioedgargonzalezrodriguez.netlify.app"
+                  href="https://portfolioedgargonzalezr.herokuapp.com/"
                   target="new"
                 >
                   Launch <FontAwesomeIcon icon={faPlayCircle} />
