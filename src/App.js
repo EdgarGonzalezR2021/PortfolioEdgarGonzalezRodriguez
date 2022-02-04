@@ -459,7 +459,7 @@ let particleconfig = {
               </div>
               <div>
                 <a
-                  href="https://portfolioedgargonzalezr.herokuapp.com"
+                  href="https://portfolioedgargonzalezrodriguez.netlify.app"
                   target="new"
                 >
                   Launch <FontAwesomeIcon icon={faPlayCircle} />
@@ -467,7 +467,7 @@ let particleconfig = {
               </div>
               <div>
                 <a
-                  href="https://github.com/EdgarGonzalezR2021/Portfolio"
+                  href="https://github.com/EdgarGonzalezR2021/PortfolioEdgarGonzalezRodriguez.git"
                   target="new"
                 >
                   Source
@@ -630,12 +630,12 @@ let particleconfig = {
               toggle5(0);
             }}
           >
-            <h1>Pizza Gourmet App</h1>
+            <h1>Gourmet Pizza App</h1>
             <ReactCardFlip isFlipped={view5} flipDirection="horizontal">
               <img
                 key="front"
                 src={require("./images/pizzaweb.png")}
-                alt="IIITT Library"
+                alt="pizzaweb"
               />
               <div className="reverse" key="back">
                 <h1>
