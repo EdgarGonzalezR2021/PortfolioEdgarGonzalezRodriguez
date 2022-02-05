@@ -1,3 +1,4 @@
+/*
 import React from "react";
 import layers from "../img/layers.png";
 import cogwheel from "../img/cogwheel.png";
@@ -173,3 +174,4 @@ About.propTypes = {
 	fadeIn: PropTypes.string,
 	tada: PropTypes.string
 };
+*/

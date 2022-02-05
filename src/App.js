@@ -6,24 +6,19 @@ import {
   faFacebookF,
   faLinkedinIn,
   faGithub,
-  faQuora,
-  faReact,
   faCss3,
   faHtml5,
   faJs,
-  faNodeJs,
 } from "@fortawesome/free-brands-svg-icons";
 import {
   faDownload,
   faChevronCircleDown,
   faCode,
-  faSchool,
   faGraduationCap,
   faUniversity,
   faAngleDoubleUp,
   faInfoCircle,
   faPlayCircle,
-  faHeart,
 } from "@fortawesome/free-solid-svg-icons";
 import {
   VerticalTimeline,
@@ -230,8 +225,6 @@ let particleconfig = {
         <img
           src={require("./images/mern.png")}
           alt="mern-logo"
-          width="400px"
-          height="200px"
         />
         <p>
           Soy un desarrollador de software Full-Stack MERN Junior para
@@ -593,7 +586,7 @@ let particleconfig = {
                   Team work with github.
                 </h1>
                 <h2>Developed for API study</h2>
-                <h3>Deployed as Demo On netlify pages</h3>
+                <h3>Deployed as demo on github.io pages</h3>
               </div>
             </ReactCardFlip>
 
@@ -639,10 +632,11 @@ let particleconfig = {
               />
               <div className="reverse" key="back">
                 <h1>
-                  Simple web page for Pizza through TO DO LIST, with control of
+                  Simple web page for Pizza Purchase Orders through CRUD & TO DO LIST, with control of
                   delivered and pending
                 </h1>
-                <h2>HTML5 y CSS3</h2>
+                <h2>HTML5, CSS3 and using Local Storage for save operations data</h2>
+                <p>Deployed as Demo On netlify pages</p>
               </div>
             </ReactCardFlip>
 
@@ -688,7 +682,7 @@ let particleconfig = {
                   Landing Web Page for ERP System (Enterprise Resource System),
                   an app for footwear industries.
                 </h1>
-                <h3>The first App in HTML that I developed as UTEL Learner</h3>
+                <h3>The first App in HTML and CSS that I developed as UTEL Learner</h3>
                 <p>Deployed as Demo On netlify pages</p>
               </div>
             </ReactCardFlip>
@@ -717,10 +711,10 @@ let particleconfig = {
       </div>
       {/*------------Footer---------------*/}
       <div className="footer">
+        <div className="icon-container">
         <div>
           <h2>Contact</h2>
         </div>
-        <div className="icon-container">
           <a
             title="Google"
             className="fa"

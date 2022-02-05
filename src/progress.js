@@ -1,3 +1,4 @@
+/*
 import React from 'react';
 import ProgressBar from 'rc-progress-bar';
 
