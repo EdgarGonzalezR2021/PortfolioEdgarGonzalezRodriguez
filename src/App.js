@@ -222,10 +222,7 @@ let particleconfig = {
 
       <div id="aboutMe" className="about ">
         <h1>About Me</h1>
-        <img
-          src={require("./images/mern.png")}
-          alt="mern-logo"
-        />
+        <img src={require("./images/mern.png")} alt="mern-logo" />
         <p>
           Soy un desarrollador de software Full-Stack MERN Junior para
           aplicaciones web;
@@ -534,11 +531,10 @@ let particleconfig = {
                 alt="BellaIvrea"
               />
               <div className="reverse" key="back">
-              <h1>
-                  A restaurant website with reservation
-                </h1>
+                <h1>A restaurant website with reservation</h1>
                 <h1>
-                  Built with React and CSS3 Styling; reservation Book with Firebase 
+                  Built with React and CSS3 Styling; reservation Book with
+                  Firebase
                 </h1>
                 <h2>Login and reservation Book with Firebase</h2>
                 <h3>Demo On heroku</h3>
@@ -551,12 +547,12 @@ let particleconfig = {
                 More <FontAwesomeIcon icon={faInfoCircle} />
               </div>
               <div>
-                <a href="https://labellaivrearestaurant.netlify.app">
+                <a href="https://react-restaurant-reservation.herokuapp.com/">
                   Launch <FontAwesomeIcon icon={faPlayCircle} />
                 </a>
               </div>
               <div>
-                <a href="https://github.com/EdgarGonzalezR2021">
+                <a href="https://github.com/EdgarGonzalezR2021/LaBellaIvreaRestaurant.git">
                   Source
                   <FontAwesomeIcon icon={faGithub} />
                 </a>
@@ -632,10 +628,12 @@ let particleconfig = {
               />
               <div className="reverse" key="back">
                 <h1>
-                  Simple web page for Pizza Purchase Orders through CRUD & TO DO LIST, with control of
-                  delivered and pending
+                  Simple web page for Pizza Purchase Orders through CRUD & TO DO
+                  LIST, with control of delivered and pending
                 </h1>
-                <h2>HTML5, CSS3 and using Local Storage for save operations data</h2>
+                <h2>
+                  HTML5, CSS3 and using Local Storage for save operations data
+                </h2>
                 <p>Deployed as Demo On netlify pages</p>
               </div>
             </ReactCardFlip>
@@ -682,7 +680,9 @@ let particleconfig = {
                   Landing Web Page for ERP System (Enterprise Resource System),
                   an app for footwear industries.
                 </h1>
-                <h3>The first App in HTML and CSS that I developed as UTEL Learner</h3>
+                <h3>
+                  The first App in HTML and CSS that I developed as UTEL Learner
+                </h3>
                 <p>Deployed as Demo On netlify pages</p>
               </div>
             </ReactCardFlip>
@@ -712,9 +712,9 @@ let particleconfig = {
       {/*------------Footer---------------*/}
       <div className="footer">
         <div className="icon-container">
-        <div>
-          <h2>Contact</h2>
-        </div>
+          <div>
+            <h2>Contact</h2>
+          </div>
           <a
             title="Google"
             className="fa"
