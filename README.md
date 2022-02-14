@@ -1,6 +1,6 @@
 # Demo : https://portfolioedgargonzalezr.herokuapp.com
 
-![image](./src/images/restaurantlabellaivrea.png)
+![image](./src/images/portfolio.png)
 
 ## Want to use This as your Portfolio page??
 Its very Simple
