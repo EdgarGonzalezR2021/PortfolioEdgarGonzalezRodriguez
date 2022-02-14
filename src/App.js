@@ -552,7 +552,7 @@ let particleconfig = {
                 </a>
               </div>
               <div>
-                <a href="https://github.com/EdgarGonzalezR2021/LaBellaIvreaRestaurant.git">
+                <a href="https://github.com/EdgarGonzalezR2021/react-restaurant-reservation.git">
                   Source
                   <FontAwesomeIcon icon={faGithub} />
                 </a>
